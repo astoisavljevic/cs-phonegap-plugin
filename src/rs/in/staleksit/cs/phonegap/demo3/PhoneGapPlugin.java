@@ -17,7 +17,7 @@
        under the License.
  */
 
-package rs.in.staleksit.cs.phonegap;
+package rs.in.staleksit.cs.phonegap.demo3;
 
 import org.apache.cordova.Config;
 import org.apache.cordova.CordovaActivity;

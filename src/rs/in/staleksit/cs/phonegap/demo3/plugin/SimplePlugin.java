@@ -1,7 +1,7 @@
 /**
  * 
  */
-package rs.in.staleksit.cs.phonegap.plugin;
+package rs.in.staleksit.cs.phonegap.demo3.plugin;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;

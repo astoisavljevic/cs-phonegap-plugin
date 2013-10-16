@@ -12,7 +12,7 @@
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
     <feature name="MacAddress">
-        <param name="android-package" value="rs.in.staleksit.cs.phonegap.plugin.SimplePlugin" />
+        <param name="android-package" value="rs.in.staleksit.cs.phonegap.demo3.plugin.SimplePlugin" />
     </feature>
     <access origin="http://127.0.0.1*" />
     <preference name="useBrowserHistory" value="true" />
