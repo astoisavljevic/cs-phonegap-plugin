@@ -13,8 +13,13 @@ var app = {
     // deviceready Event Handler
     //
     onDeviceReady: function() {        
-	console.log('onDeviceReady');
+		console.log('onDeviceReady');
+		
+		window.echo("simple", function(echoValue) {
+        	// alert('macAddress: ' + echoValue); // should alert true.
+        	document.getElementById("macAddress").innerHTML = "MAC address: " + echoValue;
+    	});	
+		
     }
 };
-
 

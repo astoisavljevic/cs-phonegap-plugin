@@ -11,6 +11,9 @@
     <feature name="App">
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
+    <feature name="MacAddress">
+        <param name="android-package" value="rs.in.staleksit.cs.phonegap.plugin.SimplePlugin" />
+    </feature>
     <access origin="http://127.0.0.1*" />
     <preference name="useBrowserHistory" value="true" />
     <preference name="exit-on-suspend" value="false" />
@@ -28,4 +31,6 @@
     <preference name="disable-cursor" value="false" />
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
+    
+    
 </widget>
