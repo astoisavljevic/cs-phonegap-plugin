@@ -1,0 +1,2 @@
+cs-phonegap-plugin
+==================
